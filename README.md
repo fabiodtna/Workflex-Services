@@ -1,83 +1,57 @@
 # 💼 Workflex Services
 
-## Visão Geral
-
-**Workflex Services** é uma plataforma desenvolvida para conectar prestadores de serviço a clientes de forma rápida, segura e organizada. A proposta é oferecer um marketplace eficiente, com foco em usabilidade, automação de processos e experiência intuitiva para ambas as partes.
-
-Desenvolvida com uma stack moderna e escalável, a plataforma visa atender desde pequenos prestadores até empresas maiores que buscam digitalizar seus serviços.
+## Visão Geral  
+**Workflex Services** é uma plataforma moderna para conectar prestadores de serviço a clientes de forma rápida, segura e eficiente. A proposta é facilitar o encontro, contratação e gestão dos serviços por meio de uma interface intuitiva e funcionalidades completas.
 
 ---
 
 ## 🚀 Funcionalidades Principais
 
-### Para prestadores de serviço:
+### Para prestadores de serviço:  
+- Criação e edição de perfil profissional com portfólio e fotos  
+- Cadastro e gerenciamento de serviços oferecidos  
+- Upload de imagens para posts e portfólio, destacando trabalhos realizados  
+- Sistema de agendamento e gestão de demandas  
+- Avaliações e feedback dos clientes  
 
-* Criação de perfil profissional completo com portfólio
-* Cadastro de serviços com descrição, preço e disponibilidade
-* Sistema de agendamento e gestão de demandas
-* Avaliações de clientes
-
-### Para clientes:
-
-* Busca e filtro de prestadores por localização, serviço e avaliações
-* Agendamento direto com profissionais
-* Chat integrado para negociação
-* Avaliação e histórico de serviços contratados
-
----
-
-## 🛠️ Tecnologias Utilizadas
-
-* **Front-end:** React, TailwindCSS, Axios
-* **Back-end:** Laravel (PHP), API RESTful
-* **Banco de Dados:** MySQL
-* **Mobile:** React Native (aplicação em desenvolvimento)
-* **Autenticação:** JWT, criptografia de senhas (bcrypt)
-* **Implantação:** Linux server, Bash scripting, Git
-* **Segurança:** Proteção CSRF, validação de entrada, middleware personalizado
+### Para clientes:  
+- Busca e filtro avançado de prestadores por localização, serviço e avaliações  
+- Agendamento direto e chat integrado para negociação  
+- Recebimento de notificações importantes (novas mensagens, agendamentos, atualizações)  
+- Posts com imagens para visualização e interação  
+- Sistema de login seguro com autenticação completa (JWT)  
 
 ---
 
-## 🎯 Objetivos do Projeto
-
-* Simplificar a contratação de serviços locais e remotos
-* Digitalizar a rotina de trabalho de autônomos e pequenos empreendedores
-* Oferecer um sistema intuitivo e responsivo
-* Reduzir intermediações e aumentar a autonomia dos prestadores
-
----
-
-## 🔐 Diferenciais
-
-* Interface leve e intuitiva
-* Código limpo e modular (Laravel com arquitetura MVC)
-* Otimização para mobile-first
-* API escalável para futuras integrações
-* Foco em UX e segurança
+## 🔐 Segurança e Autenticação  
+- Login e registro com validação e criptografia de dados sensíveis  
+- Sistema de recuperação de senha integrado com envio automático de e-mail para reset  
+- Proteção contra ataques comuns, como CSRF e injeção de dados  
+- Middleware personalizado para controle de acesso e permissões  
 
 ---
 
-## 🧠 Meu Papel no Projeto
-
-* Desenvolvimento completo do sistema (front-end e back-end)
-* Modelagem do banco de dados
-* Integração entre módulos, autenticação e segurança
-* Testes de usabilidade e ajustes de UX
-* Manutenção e evolução da aplicação
-
----
-
-## 📈 Proximos Passos
-
-* Finalização da versão mobile (React Native)
-* Implementação de sistema de pagamentos e wallet
-* Painel de métricas para prestadores
-* Expansão para serviços empresariais (B2B)
+## 🛠️ Tecnologias Utilizadas  
+- **Front-end:** React, TailwindCSS, Axios  
+- **Back-end:** Laravel (PHP), API RESTful  
+- **Banco de Dados:** MySQL  
+- **Mobile:** React Native (em desenvolvimento)  
+- **Autenticação:** JWT, bcrypt para criptografia  
+- **Notificações:** Sistema interno para alertas e atualizações  
+- **E-mail:** Integração para envio de notificações e recuperação de senha  
 
 ---
 
-## 🌐 Link e Contato
+## 🎯 Objetivos do Projeto  
+- Facilitar o encontro e contratação de serviços locais e remotos  
+- Proporcionar uma experiência fluida e segura para usuários e prestadores  
+- Automatizar processos com notificações e integração por e-mail  
+- Garantir alta usabilidade com interface responsiva e intuitiva  
 
-**Demo / Acesso restrito:** Projeto em fase privada de desenvolvimento. Acesso mediante solicitação.
-**Contato:** [fab10.dtna007@gmail.com](mailto:fab10.dtna007@gmail.com)
-**LinkedIn:** [linkedin.com/in/fabio-gr-2](https://linkedin.com/in/fabio-gr-2)
+---
+
+## 🧠 Meu Papel no Projeto  
+- Desenvolvimento completo do sistema front-end e back-end  
+- Implementação dos recursos de autenticação, upload e notificações  
+- Modelagem e integração do banco de dados  
+- Testes, ajustes e manutenção contínua do sistema  
