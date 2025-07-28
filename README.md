@@ -65,5 +65,6 @@
 ## 🌐 Link e Contato
 
 Demo: Projeto em fase **beta de testes**.
+
 Contato: fab10.dtna007@gmail.com  
 LinkedIn: [linkedin.com/in/fabio-gr-2](https://linkedin.com/in/fabio-gr-2)
