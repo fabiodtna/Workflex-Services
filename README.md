@@ -55,3 +55,9 @@
 - Implementação dos recursos de autenticação, upload e notificações  
 - Modelagem e integração do banco de dados  
 - Testes, ajustes e manutenção contínua do sistema  
+
+
+## 📱 Onde encontrar
+
+- [Play Store - Workflex Services](https://play.google.com/store/apps/details?id=com.sansdtna07.Workflex)  
+- [Instagram - @workflexservices](https://www.instagram.com/workflexservices/)
