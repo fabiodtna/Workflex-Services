@@ -73,9 +73,12 @@ A plataforma simula um sistema moderno de conexão entre prestadores de serviço
 ---
 
 ## 📱 Onde encontrar  
-- [Play Store – Workflex Services (versão de testes)](https://play.google.com/store/apps/details?id=com.sansdtna07.Workflex)  
----
 
+- **Play Store – Workflex Services (versão de testes)**  
+  ⚠️ A API utilizada neste aplicativo foi **descontinuada** e, no momento, **não está em funcionamento**.  
+  O app permanece disponível apenas para fins de **demonstração visual e portfólio**.  
+
+---
 ## 🌐 Status e Contato  
 
 **Status:** Projeto de estudo em fase **beta**, utilizado para fins de aprendizado e demonstração técnica.
