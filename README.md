@@ -86,3 +86,11 @@ A plataforma simula um sistema moderno de conexão entre prestadores de serviço
 📧 **Contato:** fab10.dtna007@gmail.com  
 💼 **LinkedIn:** [linkedin.com/in/fabio-gr-2](https://linkedin.com/in/fabio-gr-2)
 
+
+
+## 🖼️ Screenshots do Projeto
+
+![Tela de Login](https://github.com/fabiodtna/Workflex-Services/blob/main/worflex01.webp)
+![Tela Inicial](https://github.com/fabiodtna/Workflex-Services/blob/main/workflex02.webp)
+![Perfil do Usuário](https://github.com/fabiodtna/Workflex-Services/blob/main/workflex03.webp)
+
