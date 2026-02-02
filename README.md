@@ -62,10 +62,18 @@ A plataforma simula um sistema moderno de conexão entre prestadores de serviço
 
 ---
 
+## 💻 Código Fonte  
+
+- **Aplicação (App):**  
+  👉 https://github.com/fabiodtna/Workflex-1.0  
+
+- **API (Back-end):**  
+  👉 https://github.com/fabiodtna/APIWK  
+
+---
+
 ## 📱 Onde encontrar  
 - [Play Store – Workflex Services (versão de testes)](https://play.google.com/store/apps/details?id=com.sansdtna07.Workflex)  
-- [Instagram – @workflexservices](https://www.instagram.com/workflexservices/)
-
 ---
 
 ## 🌐 Status e Contato  
