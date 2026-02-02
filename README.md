@@ -90,7 +90,7 @@ A plataforma simula um sistema moderno de conexão entre prestadores de serviço
 
 ## 🖼️ Screenshots do Projeto
 
-![Tela de Login](https://github.com/fabiodtna/Workflex-Services/blob/main/worflex01.webp)
-![Tela Inicial](https://github.com/fabiodtna/Workflex-Services/blob/main/workflex02.webp)
+![Tela de Login](https://github.com/fabiodtna/Workflex-Services/blob/main/workflex01.webp)
+![Tela Inicial](https://github.com/fabiodtna/Workflex-Services/blob/main/worflex02.webp)
 ![Perfil do Usuário](https://github.com/fabiodtna/Workflex-Services/blob/main/workflex03.webp)
 
